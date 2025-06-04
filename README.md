@@ -136,7 +136,7 @@ Exiting the game.
 
 **Abhay Surya K.S.**
 New Horizon College of Engineering
-CSE Department, Batch 2024–25
+CSE Department, Batch 2024–28
 
 ---
 
