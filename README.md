@@ -29,33 +29,33 @@ RPS-Game-Using-C/
 
 ---
 
-## 🕹️ Game Modes
+## Game Modes
 
-### 1️⃣ Single Game
+###  Single Game
 
 Play one round against the computer.
 
-### 2️⃣ Best of 3
+###  Best of 3
 
 First to win **2 rounds** out of 3.
 
-### ♾️ Infinite Game
+###  Infinite Game
 
 Play unlimited rounds until you decide to stop.
 
 ---
 
-## 🖥️ Features
+##  Features
 
-* 👤 Custom player name input
-* 🧠 Random computer moves
-* 📊 Scoreboard after each round
-* 🚫 Input validation for choices and prompts
-* 🧼 Input buffer cleared to avoid infinite loops
+*  Custom player name input
+*  Random computer moves
+*  Scoreboard after each round
+*  Input validation for choices and prompts
+*  Input buffer cleared to avoid infinite loops
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 ===== Rock Paper Scissors Game =====
@@ -68,9 +68,9 @@ Choose your option:
 2. Best of 3
 3. Infinite game
 4. Exit
-Enter your choice (1-4): 1
+Enter your choice (1-4): 2
 
-You chose Single game.
+You chose Best of 3.
 
 Enter your choice:
 1. Rock
@@ -88,6 +88,38 @@ Abhay wins!
 | Abhay   | 1     |
 | Computer| 0     |
 -------------------
+
+Enter your choice:
+1. Rock
+2. Paper
+3. Scissors
+Please enter your choice (1-3): 1
+
+Abhay chose: Rock
+Computer chose: Scissors
+Abhay wins!
+
+-------------------
+| Player  | Score |
+-------------------
+| Abhay   | 2     |
+| Computer| 0     |
+-------------------
+Abhay wins the best of 3!
+===============================================
+
+Choose your option:
+1. Single game
+2. Best of 3
+3. Infinite game
+4. Exit
+Enter your choice (1-4): 4
+
+Exiting the game.
+
+===============================================
+
+
 ```
 
 ---
