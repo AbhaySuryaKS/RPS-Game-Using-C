@@ -146,7 +146,7 @@ This project is open-source and available for learning and personal use.
 
 ---
 
-## 💡 Credits
+## Credits
 
 Made by [Abhay Surya K S](https://github.com/AbhaySuryaKS/) 
 
