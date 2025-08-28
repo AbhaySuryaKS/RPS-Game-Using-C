@@ -146,4 +146,7 @@ This project is open-source and available for learning and personal use.
 
 ---
 
-Let me know if you’d like this exported as a downloadable file or want enhancements like color output or difficulty levels!
+## 💡 Credits
+
+Made by [Abhay Surya K S](https://github.com/AbhaySuryaKS/) 
+
